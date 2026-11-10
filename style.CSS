@@ -1,6 +1,9 @@
-{
+.one{
     color: red;
 }
-p{
+.two{
     color:aqua
+}
+p{
+    color: blueviolet;
 }
